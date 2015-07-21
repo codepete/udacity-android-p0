@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary_blue" type="color">#039BE5</item>
+    <item name="primary_blue_pressed" type="color">#0288D1</item>
+    <item name="dark_blue" type="color">#1565C0</item>
+    <item name="dark_blue_pressed" type="color">#0D47A1</item>
+</resources>
